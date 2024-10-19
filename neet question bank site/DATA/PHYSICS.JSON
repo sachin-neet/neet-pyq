@@ -1,0 +1,132 @@
+{
+    "motion": [
+        {
+            "question": "What is the SI unit of velocity?",
+            "options": ["m/s", "km/h", "cm/s", "m"],
+            "correct": 0,
+            "explanation": "The SI unit of velocity is meters per second (m/s)."
+        },
+        {
+            "question": "What is the formula for acceleration?",
+            "options": ["a = (v - u) / t", "a = v / t", "a = u + vt", "a = ut + 1/2at^2"],
+            "correct": 0,
+            "explanation": "Acceleration is defined as the rate of change of velocity with respect to time, given by a = (v - u) / t."
+        },
+        {
+            "question": "What does a negative acceleration indicate?",
+            "options": ["Object is speeding up", "Object is slowing down", "Object is at rest", "Object is moving in a circular path"],
+            "correct": 1,
+            "explanation": "Negative acceleration indicates that an object is slowing down."
+        },
+        {
+            "question": "If an object is moving with constant speed, what can be said about its acceleration?",
+            "options": ["It is constant", "It is increasing", "It is decreasing", "It is zero"],
+            "correct": 3,
+            "explanation": "If an object is moving with constant speed, its acceleration is zero."
+        },
+        {
+            "question": "Which of the following equations represents uniformly accelerated motion?",
+            "options": ["v = u + at", "v^2 = u^2 + 2as", "s = ut + 1/2 at^2", "All of the above"],
+            "correct": 3,
+            "explanation": "All the given equations represent uniformly accelerated motion."
+        }
+    ],
+    "thermodynamics": [
+        {
+            "question": "What is the first law of thermodynamics?",
+            "options": ["Energy cannot be created or destroyed", "Entropy of an isolated system always increases", "Heat cannot be transferred from a colder to a hotter body", "All of the above"],
+            "correct": 0,
+            "explanation": "The first law of thermodynamics states that energy cannot be created or destroyed, only transformed."
+        },
+        {
+            "question": "What is the SI unit of heat?",
+            "options": ["Joule", "Calorie", "Newton", "Watt"],
+            "correct": 0,
+            "explanation": "The SI unit of heat is Joule."
+        },
+        {
+            "question": "What happens to the temperature of an ideal gas during an isothermal process?",
+            "options": ["It increases", "It decreases", "It remains constant", "It varies with pressure"],
+            "correct": 2,
+            "explanation": "In an isothermal process, the temperature of an ideal gas remains constant."
+        },
+        {
+            "question": "What is entropy a measure of?",
+            "options": ["Energy", "Temperature", "Disorder", "Pressure"],
+            "correct": 2,
+            "explanation": "Entropy is a measure of the disorder or randomness in a system."
+        },
+        {
+            "question": "Which process occurs at constant volume?",
+            "options": ["Isothermal", "Isobaric", "Isochoric", "Adiabatic"],
+            "correct": 2,
+            "explanation": "An isochoric process occurs at constant volume."
+        }
+    ],
+    "optics": [
+        {
+            "question": "What is the speed of light in a vacuum?",
+            "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3 x 10^10 m/s", "3 x 10^4 m/s"],
+            "correct": 0,
+            "explanation": "The speed of light in a vacuum is approximately 3 x 10^8 m/s."
+        },
+        {
+            "question": "What type of lens is used to converge light rays?",
+            "options": ["Concave lens", "Convex lens", "Cylindrical lens", "Biconcave lens"],
+            "correct": 1,
+            "explanation": "A convex lens is used to converge light rays."
+        },
+        {
+            "question": "What is the focal length of a concave lens?",
+            "options": ["Positive", "Negative", "Zero", "Infinite"],
+            "correct": 1,
+            "explanation": "The focal length of a concave lens is negative."
+        },
+        {
+            "question": "Which phenomenon explains the bending of light around obstacles?",
+            "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+            "correct": 2,
+            "explanation": "Diffraction is the phenomenon that explains the bending of light around obstacles."
+        },
+        {
+            "question": "What is the critical angle for total internal reflection?",
+            "options": ["45 degrees", "60 degrees", "90 degrees", "It depends on the refractive index"],
+            "correct": 3,
+            "explanation": "The critical angle for total internal reflection depends on the refractive index of the two media."
+        }
+    ],
+    "electricity": [
+        {
+            "question": "What is the SI unit of electric current?",
+            "options": ["Volt", "Ohm", "Ampere", "Coulomb"],
+            "correct": 2,
+            "explanation": "The SI unit of electric current is Ampere."
+        },
+        {
+            "question": "Ohm's law relates which of the following?",
+            "options": ["Voltage, current, and resistance", "Power and energy", "Charge and potential difference", "Current and magnetic field"],
+            "correct": 0,
+            "explanation": "Ohm's law relates voltage, current, and resistance."
+        },
+        {
+            "question": "What is the equivalent resistance of resistors in series?",
+            "options": ["R1 + R2 + R3", "1/R1 + 1/R2 + 1/R3", "R1 x R2 x R3", "R1 - R2 - R3"],
+            "correct": 0,
+            "explanation": "The equivalent resistance of resistors in series is the sum of their resistances: R1 + R2 + R3."
+        },
+        {
+            "question": "What happens to the total current in a parallel circuit?",
+            "options": ["It increases", "It decreases", "It remains constant", "It varies with resistance"],
+            "correct": 0,
+            "explanation": "The total current in a parallel circuit increases as it splits into multiple paths."
+        },
+        {
+            "question": "What is the formula for electrical power?",
+            "options": ["P = IV", "P = I^2R", "P = V^2/R", "All of the above"],
+            "correct": 3,
+            "explanation": "All of the given formulas represent the relationship for electrical power."
+        }
+    ]
+}
+
+  
